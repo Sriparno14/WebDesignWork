@@ -1,3 +1,5 @@
+/*In this assignment you will use the code that I provide in order to create an interactive photo gallery.(coursera assignment for 'interactivity with javascript')*/
+
 /*Name this external file gallery.js*/
 
 function upDate(previewPic){
